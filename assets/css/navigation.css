@@ -9,6 +9,8 @@
     align-items: center;
     justify-content: space-around;
     border-radius: 4em;
+
+    font-size: 0.7em;
 }
 .navigation button{
     
@@ -18,10 +20,12 @@
     font-size: 1.5em;
     border-radius: 2em;
     width: 9em;
-    /* margin-inline: auto; */
     padding-block: 0.5em;
     height: 2.5em;
     margin-block: 0.5em;
+
+    width: 7em;
+    margin-inline: 0;
   }
   button>img{
     width: 50px;

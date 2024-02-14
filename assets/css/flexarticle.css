@@ -1,0 +1,19 @@
+.article-flex{
+    background-color: #fbf7e3;
+    color:#612405;
+    display: flex;
+    border-radius: 2em;
+}
+.article-flex div{
+    display: flex;
+    flex-direction: column;
+    margin-inline: 2em;
+}
+
+.article-flex div>p{
+    margin-top: 0;
+}
+
+.article-flex img{
+    margin: 1.5em;
+}
